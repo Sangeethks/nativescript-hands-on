@@ -1,0 +1,11 @@
+<Page>
+    <!-- Action Bar -->
+    <ActionBar title="Login"></ActionBar>
+
+    <TextField hint="Email Address" autocapitalizationType="none" autocorrect="false" keyboardType="email"  />
+    <TextField hint="Password" secure="true" />
+
+    <!-- buttons -->
+    <Button text="Sign in" />
+    <Button text="Sign up for groceries" />
+</Page>
